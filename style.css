@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Outfit', sans-serif;
+}
+
+.container {
+	background-color: hsl(220, 15%, 55%);
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.wrapper {
+	background-color: hsl(0, 0%, 100%);
+	padding: 1rem;
+	border-radius: 15px;
+	max-width: 300px;
+	text-align: center;
+}
+
+.qr-code > img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 15px;
+}
+
+.info-section {
+	padding: 1rem;
+}
+
+.info-section h1 {
+	font-weight: 700;
+	font-size: 1.3rem;
+	margin-bottom: 1rem;
+}
+
+.description {
+	font-weight: 400;
+	color: hsl(220, 15%, 55%);
+	font-size: 15px;
+}
