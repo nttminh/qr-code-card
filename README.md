@@ -12,13 +12,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](/images/screenshot-desktop.jpg?raw=true "Desktop Interface")
-![](/images/screenshot-mobile.jpg?raw=true "Mobile Interface")
+![screenshot-desktop](https://user-images.githubusercontent.com/59038507/153924174-f3278a21-0da1-4d30-9d63-97fc08685c43.JPG)
+![screenshot-mobile](https://user-images.githubusercontent.com/59038507/153924209-e61ad697-67d4-4fc6-9c62-b81ac6daf09a.JPG)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-qsY56J5Xc)
--   Live Site URL: [Add live site URL here](https://qr-code-card-navy.vercel.app/)
+-   Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-qsY56J5Xc)
+-   Live Site URL: [Live site](https://qr-code-card-navy.vercel.app/)
 
 ### Built with
 
